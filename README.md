@@ -29,12 +29,12 @@ Please input a file name:
 Passage.txt
 
 __Output:__
-Top words are:
-linear diophantine equations
-nonstrict inequations
-strict inequations
-natural numbers
-linear constraints
+Top words are:  
+linear diophantine equations  
+nonstrict inequations  
+strict inequations  
+natural numbers  
+linear constraints  
 
 
 
